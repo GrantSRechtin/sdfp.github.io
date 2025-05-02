@@ -10,4 +10,4 @@ One of the biggest reason we wanted to recreate Jump King and believed it would 
 Screenshots & Video comparing our game to the original
 
 ## Download
-github page
+[github page](https://github.com/olincollege/hop-emperor)
